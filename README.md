@@ -1,2 +1,2 @@
-# Personal portfolio built using HTML, CSS, SCSS/SASS and JavaScript.
+# Personal
 Personal portfolio built using HTML, CSS, SCSS/SASS and JavaScript.
